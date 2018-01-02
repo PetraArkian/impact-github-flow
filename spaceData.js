@@ -20,7 +20,7 @@ const peopleInSpace = {
       "name": "Anton Shkaplerov"
     },
     {
-      "craft": "ISS",
+      "craft": "ISSA",
       "name": "Scott Tingle"
     },
     {
